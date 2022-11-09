@@ -22,7 +22,7 @@ To get started using any data or code, click on the folder and file you want. Cl
 
     -   Extract year, month, week of year, and day from date field for future merging steps
 
-    -   *Merge in 30 year normal data by month and county*
+    -   Merge in 30 year normal data by month and county
 
 2.  Create an Excel sheet with county-level information including at a minimum: county name, FIPS, Climate Division, PRISM latitude, longitude, and elevation
 
@@ -36,21 +36,24 @@ To get started using any data or code, click on the folder and file you want. Cl
 
     -   Assign SoVI to missing years by carrying forward data
 
-5.  *Merge in urban vs. rural designation from the US Census by county*
+5.  Merge in urban vs. rural designation from the US Census by county
 
-6.  *Merge in drought data by climate division and month*
+6.  Merge in drought data by climate division and month
 
-7.  *Create variables for analysis*
+7.  Create variables for analysis
 
-    -   *Extreme Precipitation: Compare the daily precipitation to monthly and county-level 30 year normals. If daily value is above 30 year normals, then it was an extreme precipitation event.*
+    -   Extreme Precipitation: Compare the daily precipitation to monthly and county-level 30 year normals. If daily value is above 30 year normals, then it was an extreme precipitation event.
 
-    -   *Drought: Using each drought index, create a presence/absence variable for drought. This should be a binary value, for example if PDSI is positive, assign a value of 0, if it's negative, assign a value of 1.*
+    -   Drought: Using each drought index, create a presence/absence variable for drought. This should be a binary value, for example if PDSI is positive, assign a value of 0, if it's negative, assign a value of 1. Categorize PDSI into drought severity level.
 
-    -   *ENSO Years: Assign a designation for ENSO years for years: 2006--07, 2009--10, 2014--16, and 2018--19. The latest ENSO years are available from the [NWS Climate Prediction Center](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)*
+    -   ENSO Years: Assign a designation for ENSO years for years: 2006--07, 2009--10, 2014--16, and 2018--19. The latest ENSO years are available from the [NWS Climate Prediction Center](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)
 
     -   *Rainy Season: Identify each state's rainy season and create a variable that identifies which months in each year are generally considered rainy.*
 
-8.  *Aggregate daily data to different timescales and export. In the end, you should have 4 separate data frames for daily, weekly, monthly, and seasonal weather.*
+8.  *Aggregate daily data to different timescales and export. In the end, you should have 3 separate data frames for daily, weekly, monthly weather.*
+9.  *Create seperate datasets or variables for sensitivity analyses*
+    -  *Confirmed cases only*
+    -  *A variable for COVID years, potentially restricting before 2019.*
 
 ## Usage and Resources
 
