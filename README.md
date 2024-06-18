@@ -1,7 +1,9 @@
 # Southwest Climate Change and Enteric Diseases
 
 #### A research compendium for exploring the effect of precipitation and drought on _Salmonella_ and _Campylobacter_ in the 4 corners states
+
 **Under Review with EHP:** Association between precipitation events, drought, and animal operations with _Campylobacter_ infections in the Southwest US, 2009–2021
+
 **Under Review with One Health:** Association between precipitation events, drought, and animal operations with _Salmonella_ infections in the Southwest US, 2009–2021
  
 
