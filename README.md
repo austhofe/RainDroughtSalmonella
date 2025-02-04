@@ -2,8 +2,7 @@
 
 #### A research compendium for exploring the effect of precipitation and drought on _Salmonella_ infections in the 4 corners states
 
-**Under Review with One Health:** Association between precipitation events, drought, and animal operations with _Salmonella_ infections in the Southwest US, 2009–2021
- 
+**Published in One Health:** Austhof E, Pogreba-Brown L, White AE, Jervis RH, Weiss J, Shrum Davis S, Brown HE. Association of precipitation events, drought, and animal operations on Salmonella infections in the Southwest US, 2009-2021. One Health. One Health. 2024 Nov 19;19:100941. [DOILink](https://doi.org/10.1016/j.onehlt.2024.100941)
 
 [Report Bug](https://github.com/austhofe/4CornersCCandFBD/issues) · [Request Feature](https://github.com/austhofe/4CornersCCandFBD/issues) · [Contribute](https://github.com/austhofe/4CornersCCandFBD/pulls)
 
@@ -64,4 +63,4 @@ Distributed under the GNU 3.0 License. See `LICENSE.txt` for more information.
 
 Erika Austhof - [barrette\@arizona.edu](mailto:barrette@arizona.edu)
 
-Project Link: <https://github.com/austhofe/4CornersCCandFBD>
+Project Link: <https://github.com/austhofe/RainDroughtSalmonella>
