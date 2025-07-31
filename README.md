@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/839471906.svg)](https://doi.org/10.5281/zenodo.16646974)
+
 # Southwest Climate Change and Enteric Diseases
 
 #### A research compendium for exploring the effect of precipitation and drought on _Salmonella_ infections in the 4 corners states
